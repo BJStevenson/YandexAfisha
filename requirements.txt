@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+seaborn
+matplotlib
+phik
+python-dotenv
